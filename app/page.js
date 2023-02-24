@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-   <Button>Hello</Button>
+   <h1 style={{fontFamily: inter}}>Hello World</h1>
     </>
   )
 }
